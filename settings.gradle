@@ -1,0 +1,2 @@
+rootProject.name='Oleg Branch Testing App'
+include ':app'

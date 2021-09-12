@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "681242829028",
+    "firebase_url": "https://oleg-test-app-2864e.firebaseio.com",
+    "project_id": "oleg-test-app-2864e",
+    "storage_bucket": "oleg-test-app-2864e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681242829028:android:8e51624cce68d022ed0cf1",
+        "android_client_info": {
+          "package_name": "com.oleg.testingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681242829028-66174q5dsrtrdnruio42qt88pcnfer6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVHCJyxTkZMyUns0UreIhcKmUykau21tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681242829028-66174q5dsrtrdnruio42qt88pcnfer6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681242829028-6st0sgdbh8fggnepne1c575397rstfi8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.branch.Master-Proserve-iOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
